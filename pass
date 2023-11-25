@@ -1,0 +1,2 @@
+if (account.username === username &&
+    account.password === password)
